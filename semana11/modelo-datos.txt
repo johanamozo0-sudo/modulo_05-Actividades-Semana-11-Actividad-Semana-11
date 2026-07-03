@@ -1,0 +1,9 @@
+Entidad 1: Reporte
+
+Campos principales: ID, título, descripción, fecha, estado y ubicación.
+Propósito: Registrar las incidencias o problemas reportados por los ciudadanos.
+
+Entidad 2: Usuario
+
+Campos principales: ID, nombre, correo electrónico y rol.
+Propósito: Identificar a los usuarios de la plataforma y controlar el acceso según sus permisos.

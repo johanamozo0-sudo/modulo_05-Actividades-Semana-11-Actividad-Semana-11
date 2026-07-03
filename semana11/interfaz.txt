@@ -1,0 +1,6 @@
+Interfaz propuesta:
+
+Un formulario donde el usuario pueda crear una causa con el título y la descripción.
+Una lista de causas disponibles para que los ciudadanos puedan ver todas las iniciativas.
+Un botón "Apoyar" en cada causa para registrar el apoyo de los usuarios.
+Un contador de apoyos que muestre cuántas personas han apoyado cada causa.
